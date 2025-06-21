@@ -12,7 +12,7 @@
     </style>
 </head>
 <body>
-    <h1>Rakhacyber</h1>
+    <h1>Trakhacyber</h1>
     <div class="box">
         <h2>PAYAKUMBUH CYBER</h2>
         <p>Kami berasal dari rasa penasaran, bergerak untuk pelestarian digital. Payakumbuh Cyber Defense — dari rasa ingin tahu, menuju perlindungan siber.</p>
